@@ -1,5 +1,5 @@
-## Java-Concepts
-* Print Statement:-
+# Java-Concepts
+## * Print Statement:-
 
 Java System.out.println() is used to print an argument that is passed to it. The statement can be broken into 3 parts which can be understood separately as:
 
@@ -11,11 +11,12 @@ Java System.out.println() is used to print an argument that is passed to it. The
 
 Sample example - [Print Statements](https://github.com/DevashishChoudhary/Java-Concepts/blob/master/Print_Statement.java).
 
-* Data Types and Concatenation :-
+## * Data Types and Concatenation :-
 
 Data types specify the different sizes and values that can be stored in the variable. There are two types of data types in Java:
 
 **Primitive data types:** The primitive data types include boolean, char, byte, short, int, long, float and double.
+
 **Non-primitive data types:** The non-primitive data types include Classes, Interfaces, and Arrays.
 
 In java, string concatenation forms a new string that is the combination of multiple strings. There are two ways to concat string in java:
