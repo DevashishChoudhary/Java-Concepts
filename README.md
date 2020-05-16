@@ -25,3 +25,11 @@ In java, string concatenation forms a new string that is the combination of mult
   * By concat() method
 
 Sample example - [Data Types and Concatenation](https://github.com/DevashishChoudhary/Java-Concepts/blob/master/Data_Types.java).
+
+## * Operators :-
+
+Operator in Java is a symbol which is used to perform operations. For example: +, -, *, / etc.
+
+There are many types of operators in Java which are Unary Operator, Arithmetic Operator, Shift Operator, Relational Operator, Bitwise Operator, Logical Operator, Ternary Operator and Assignment Operator.
+
+Sample example - [Operators](https://github.com/DevashishChoudhary/Java-Concepts/blob/master/Operators.java).
