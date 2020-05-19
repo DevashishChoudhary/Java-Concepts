@@ -53,3 +53,5 @@ Java has the following conditional statements:
 - Use "else" to specify a block of code to be executed, if the same condition is false
 - Use "else if" to specify a new condition to test, if the first condition is false
 - Use "switch" to specify many alternative blocks of code to be executed
+
+Sample example :- [Conditional statment](https://github.com/DevashishChoudhary/Java-Concepts/blob/master/Conditional.java).
